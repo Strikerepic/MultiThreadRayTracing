@@ -7,3 +7,5 @@ I discovered a valuable resource on Repo X (also known by other names such as Bu
 In the following sections, I walk through the original one-week book by these authors and explain how I self-taught myself to implement and effectively use multithreading in C++. By applying skills learned in my Data Structures and Algorithms class, I was able to assess the efficiency of the enhancements I made to the original ray tracing engine, enabling it to render images much faster.
 
 Simply compile the main file; all other code is linked together through the headers.
+
+![Alt text](./image.ppm)
