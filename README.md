@@ -8,4 +8,4 @@ In the following sections, I walk through the original one-week book by these au
 
 Simply compile the main file; all other code is linked together through the headers.
 
-![Alt text](./image.ppm)
+![Alt text](./image.jpg)
